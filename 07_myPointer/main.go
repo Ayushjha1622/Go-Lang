@@ -22,4 +22,10 @@ func main(){
 	fmt.Println("new value is: ", myNumber)
 
 
+	digit := 56
+	var ptr2 = &digit
+	fmt.Println("value of actual pointer is",ptr2)
+	fmt.Println("value of actual pointer is",ptr2)
+
+
 }
